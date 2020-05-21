@@ -1,0 +1,1 @@
+puts(person1.firstname);
